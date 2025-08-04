@@ -104,3 +104,4 @@ Tests confirm whether observed performance uplift is statistically and business-
 
 - [📊 Final Presentation ](https://www.canva.com/design/DAGuR0n-g4o/sDLRjR5PrQCR7owALcSukQ/edit): project summary, methodology, key findings, and recommendations  
 
+# vanguard_project
